@@ -1,1 +1,1 @@
-docker build --tag python-docker
+docker build --tag python-docker .
